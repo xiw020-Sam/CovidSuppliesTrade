@@ -1,4 +1,4 @@
-# CovidSuppliesTrade - An IOS App
+# CovidSuppliesTrade - An IOS App for SD Hack 2022
 Author: Xi Wang - xiw020@ucsd.edu
 
 During the time of Covid, we realize that people may run out of supplies due to 
